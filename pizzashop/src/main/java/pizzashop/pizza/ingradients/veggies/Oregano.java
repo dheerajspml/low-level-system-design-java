@@ -1,5 +1,5 @@
 package pizzashop.pizza.ingradients.veggies;
 
 
-public class Oregano extends Veggies {
+public class Oregano implements Veggies {
 }

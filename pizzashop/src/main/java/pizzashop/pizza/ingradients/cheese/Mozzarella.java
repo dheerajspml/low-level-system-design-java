@@ -1,5 +1,5 @@
 package pizzashop.pizza.ingradients.cheese;
 
 
-public class Mozzarella extends Cheese {
+public class Mozzarella implements Cheese {
 }

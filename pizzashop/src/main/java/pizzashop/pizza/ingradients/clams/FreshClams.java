@@ -1,4 +1,4 @@
 package pizzashop.pizza.ingradients.clams;
 
-public class FreshClams extends Clams {
+public class FreshClams implements Clams {
 }

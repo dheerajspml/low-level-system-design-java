@@ -1,4 +1,4 @@
 package pizzashop.pizza.ingradients.veggies;
 
-public class Veggies {
+public interface Veggies {
 }
