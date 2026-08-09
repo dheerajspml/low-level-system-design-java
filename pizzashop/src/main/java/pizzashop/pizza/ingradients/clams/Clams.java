@@ -1,4 +1,4 @@
 package pizzashop.pizza.ingradients.clams;
 
-public class Clams {
+public interface Clams {
 }

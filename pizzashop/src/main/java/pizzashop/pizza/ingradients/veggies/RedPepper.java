@@ -1,4 +1,4 @@
 package pizzashop.pizza.ingradients.veggies;
 
-public class RedPepper extends Veggies {
+public class RedPepper implements Veggies {
 }

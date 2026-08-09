@@ -1,4 +1,4 @@
 package pizzashop.pizza.ingradients.cheese;
 
-public class Cheese {
+public interface Cheese {
 }
